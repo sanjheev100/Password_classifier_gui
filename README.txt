@@ -7,6 +7,6 @@ If we want to change 1 as weak we need to change the logic in base_gui.py
 
 
 DESCRIPTION
-	We had took the predicted from kaggle and converted the model into pickle object.pickle is used in tkinter gui file 
+	We had took the exisiting algo from kaggle and converted the model into pickle object.pickle is used in tkinter gui file 
 by using the object we can get the value as 0,1 and 2 and tkinter will display the result as weak,average and strong according
 the given condition
